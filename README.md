@@ -39,4 +39,4 @@ Microsoft offers the Azure Container Service (ACS) using 3 options: Docker Swarm
 The last option is very attractive for some scenarios. You don't need to setup the nodes because you cannot manage or access. This option allows you to run your containers without the requirement to setup neyworking, storage, nodes, etc. 
 Microsoft Azure offers 2 solutions:
 - Azure Container Instance (ACI): you can run your containers on Azure and manage using Azure CLI and Docker
-- Azure Container service (AKS) Managed Kubernetes: you can run your containers on Azure and manage using Azure CLI and Kubectl (with the most part of the benefits from Kubernetes)
+- Azure Container Service (AKS) Managed Kubernetes: you can run your containers on Azure and manage using Azure CLI and Kubectl (with the most part of the benefits from Kubernetes)
